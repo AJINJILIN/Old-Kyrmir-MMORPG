@@ -1,6 +1,6 @@
 # Old Kyrmir MMO (RU)
  
-> Автор: Bimbol, Отредактировано: Profesores and Kimior, Перевод на русский язык: Нуар
+> Автор: Bimbol, Отредактировано: Profesores и Kimior, Перевод на русский язык: Нуар
 
 
 #### Работает на GMP 1.1.1
