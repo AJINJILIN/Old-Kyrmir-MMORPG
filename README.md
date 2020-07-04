@@ -1,4 +1,4 @@
-# Old Kyrmir MMO
+# Old Kyrmir MMO (RU)
  
 > Автор: Bimbol, Отредактировано: Profesores and Kimior, Перевод на русский язык: Нуар
 
